@@ -5,5 +5,4 @@ authors = ["Ross Jacobs <rj@swit.sh>"]
 edition = "2018"
 
 [dependencies]
-
 rand = "0.3.14"
